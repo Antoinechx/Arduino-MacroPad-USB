@@ -22,7 +22,7 @@ A custom USB HID (Human Interface Device) peripheral featuring a joystick and pr
 1. Open `src/macropad.ino` in the Arduino IDE.
 2. Install necessary libraries (e.g., `Keyboard.h`, `Mouse.h`).
 3. Select **Arduino Leonardo/Micro** as the board.
-4. Flash the firmware and start customizing your macros!
+4. Start customizing your macro and flash the firmware.
 
 ## 🌍 Socials
 - **3D Model:** [Link to your MakerWorld model here]
