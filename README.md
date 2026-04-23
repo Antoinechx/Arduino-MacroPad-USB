@@ -1,6 +1,10 @@
 # 🎹 3D-Printed Arduino Macro Pad with Joystick
 
 A custom USB HID (Human Interface Device) peripheral featuring a joystick and programmable keys. This project combines embedded programming with 3D design to create a versatile productivity tool.
+MakerWorld 3D printed keyboard : 
+
+https://makerworld.com/fr/models/2357932-macropad-with-joystick-for-arduino-pro-micro#profileId-2579549
+@champrouxantoin
 
 ## 🚀 Features
 - **USB HID Support:** Recognized as a native keyboard/mouse by any OS.
